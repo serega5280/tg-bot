@@ -13,7 +13,7 @@ function App() {
     tg.close()
   }
   return (
-    <div className="App">
+    <div className="body">
      lol
      <button onClick={onClose}>Закрыть</button>
     </div>
